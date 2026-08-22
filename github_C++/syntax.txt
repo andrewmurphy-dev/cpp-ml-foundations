@@ -1,0 +1,9 @@
+clang++ --version
+
+what is clang++ ? 
+
+
+C++ compiler we're going to use on your Mac.
+
+#what is a compiler?
+A compiler is a program that translates the C++ code you write into instructions your computer can actually run.

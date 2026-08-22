@@ -1,0 +1,16 @@
+
+
+int --> means integer 
+
+
+int main() 
+
+main() this is the starting point of the program 
+
+() --> no inputs for now ! 
+
+
+{} --> code inside the function !
+
+
+return 0; → program finished successfully
