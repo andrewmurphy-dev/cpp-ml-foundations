@@ -1,0 +1,19 @@
+## Week 1 — Day 1: C++ Basics
+
+**Goal:** Write, compile, and run your first small C++ program. Today is only **types + input/output + compiler basics**. 
+
+### Plan — 60–75 minutes
+
+1. **Setup — 10 min**
+
+   * Create `main.cpp`
+   * Learn how to compile it with `clang++`
+   * Run the program from Terminal
+
+2. **Basic C++ structure — 10 min**
+
+   * `#include`
+   * `main()`
+   * `{ }`
+   * `;`
+
