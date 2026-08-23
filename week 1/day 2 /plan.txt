@@ -1,0 +1,28 @@
+## Week 1 — Day 2
+
+### 1. Variables and Types
+
+* `int`
+* `double`
+* `bool`
+* `char`
+* `std::string`
+* `auto`
+
+### 2. Input / Output
+
+* `std::cout`
+* `std::cin`
+
+### 3. Compiler Practice
+
+* Make 3 simple mistakes
+* Compile the program
+* Read the compiler errors
+* Fix each error
+
+### 4. Celsius / Fahrenheit Exercise
+
+* Enter a temperature
+* Calculate the conversion
+* Print the result

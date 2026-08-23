@@ -1,0 +1,14 @@
+what does std stand for ?
+
+this means standard 
+
+
+std::cout. --> use cout from the C++ standard library
+
+std::string --> use string from the standard library 
+
+
+
+:: is called the scope resolution operator.
+
+for now just think this finds a string or cout 
